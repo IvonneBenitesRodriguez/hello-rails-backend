@@ -1,10 +1,10 @@
 
 #   ⭐️ Rails-with-react App ⭐️
 
-# 📗 Table of Contents
+# 📗 Table of Contents : 
 
 - [⭐️ Rails-with-react App ⭐️](#️-rails-with-react-app-️)
-- [📗 Table of Contents](#-table-of-contents)
+- [📗 Table of Contents :](#-table-of-contents-)
 - [📖 \[Rails-with-react-app\] ](#-rails-with-react-app-)
   - [🛠 Live Demo ](#-live-demo-)
   - [🛠 Built With ](#-built-with-)
